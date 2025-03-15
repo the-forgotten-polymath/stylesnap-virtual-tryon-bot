@@ -1,0 +1,9 @@
+setuptools
+twilio
+requests
+gradio-client
+python-dotenv
+pillow
+opencv-python
+fastapi[all]
+uvicorn
