@@ -65,3 +65,5 @@ Follow project runtime specifications to launch development servers or build bun
 This project is licensed under the **MIT License**.
 
 <!-- System performance and build verification passing -->
+
+<!-- Feature branch enhancement: feat/garment-warping-mask -->
